@@ -7,15 +7,11 @@
             <li>
               <a href="">
                 <i class="fa-solid fa-magnifying-glass"></i>
-                
-                
               </a>
             </li>
             <li>
               <a href="">
                 <i class="fa-regular fa-user"></i>
-                <i class="fal fa-user" aria-hidden="true"></i>
-                
               </a>
             </li>
             <li>
@@ -25,12 +21,17 @@
             </li>
             <li>
               <a href="">
-
+                <i class="fa-brands fa-instagram"></i>
               </a>
             </li>
             <li>
               <a href="">
-
+                <i class="fa-brands fa-youtube"></i>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <i class="fa-solid fa-bars"></i>
               </a>
             </li>
           </ul>
@@ -58,7 +59,6 @@ export default {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: skyblue;
   }
 
   .header h1 img{
@@ -73,6 +73,7 @@ export default {
     display: flex;
     justify-content: end;
     align-items: center;
+    gap: 15px;
   }
   .gnd .nav_icon i{
     font-size: 20px;
@@ -82,6 +83,7 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 50px;
   }
   
   .gnd .nav_menu a{

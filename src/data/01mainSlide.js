@@ -1,6 +1,6 @@
 export default[
     {
-        mainTitle:"청소년들의 무한한 잠재력을 믿습니다",
+        mainTitle:"청소년들의<br>  <strong>무한한 잠재력</strong>을 믿습니다",
         subtitle:"JA Korea는 청소년들이 자신의 미래를 스스로 개척할 수 있는 역량을 키워 성공적인 삶을 살 수 있도록 교육합니다.",
         mVideo:"m_video01.mp4",
         href:"javascript:void(0)"
